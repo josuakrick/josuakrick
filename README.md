@@ -1,4 +1,4 @@
-# <h3>Olá, eu sou o Josuã Krick 😺</h3> 
+# <h3>Olá, eu sou o Josuã Krick 😺</h3>
 
 <div>
   <a href="https://github.com/josuakrick">
@@ -11,6 +11,8 @@
   <img align="center" alt="Jo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Jo-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Jo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
           
 </div>
 
