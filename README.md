@@ -1,7 +1,7 @@
 # 
-<img  height="200px" src="mixkit-work-desk-with-a-computer-books-coffee-and-snacks-398-desktop-wallpaper.png"/>
-<h3>Olá, eu sou o Josuã Krick 😺</h3>
 
+<img height="280px" src="mixkit-work-desk-with-a-computer-books-coffee-and-snacks-398-desktop-wallpaper.png"/>
+<h3>Olá, eu sou o Josuã Krick 😺</h3>
 
 <div>
   <a href="https://github.com/josuakrick">
